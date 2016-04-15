@@ -1,24 +1,13 @@
-## README
+## A chatroom example using Rails5 and ActionCable
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Howto
 
-Things you may want to cover:
+TODO
 
-* Ruby version
+## Setup
 
-* System dependencies
+TODO
 
-* Configuration
+## Deployment
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+TODO

@@ -5,4 +5,5 @@
 $(document).on 'ready', ->
   $('#talk').on 'keyup', (event)->
     if(event.keyCode == 13)
-      console.log('xxx')
+      App.hall.perform('talk', what: @value)
+      @value = ''
